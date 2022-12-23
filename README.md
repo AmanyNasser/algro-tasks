@@ -1,2 +1,4 @@
 # algro-tasks
-1 form include(insertion&amp;merge sort)
+1 windowformApp include(insertion & merge sort)
+
+3 consoleApp for(insertionsort & mergesort & kruskalalgro)
