@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\New folder\ConsoleApp krskual algo\bin\Debug\ConsoleApp krskual algo.exe.config
+C:\Users\HP\Desktop\New folder\ConsoleApp krskual algo\bin\Debug\ConsoleApp krskual algo.exe
+C:\Users\HP\Desktop\New folder\ConsoleApp krskual algo\bin\Debug\ConsoleApp krskual algo.pdb
+C:\Users\HP\Desktop\New folder\ConsoleApp krskual algo\obj\Debug\ConsoleApp krskual algo.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\New folder\ConsoleApp krskual algo\obj\Debug\ConsoleApp krskual algo.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\New folder\ConsoleApp krskual algo\obj\Debug\ConsoleApp krskual algo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\ConsoleApp krskual algo\obj\Debug\ConsoleApp krskual algo.exe
+C:\Users\HP\Desktop\New folder\ConsoleApp krskual algo\obj\Debug\ConsoleApp krskual algo.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dfe868b7-c5dd-4c7e-89a8-bebe7161bb64": {
+      "ProjectGuid": "dfe868b7-c5dd-4c7e-89a8-bebe7161bb64",
+      "DisplayName": "ConsoleApp merge sort",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\New folder\ConsoleApp1 task algro\bin\Debug\ConsoleApp1 task algro.exe.config
+C:\Users\HP\Desktop\New folder\ConsoleApp1 task algro\bin\Debug\ConsoleApp1 task algro.exe
+C:\Users\HP\Desktop\New folder\ConsoleApp1 task algro\bin\Debug\ConsoleApp1 task algro.pdb
+C:\Users\HP\Desktop\New folder\ConsoleApp1 task algro\obj\Debug\ConsoleApp1 task algro.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\New folder\ConsoleApp1 task algro\obj\Debug\ConsoleApp1 task algro.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\New folder\ConsoleApp1 task algro\obj\Debug\ConsoleApp1 task algro.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\ConsoleApp1 task algro\obj\Debug\ConsoleApp1 task algro.exe
+C:\Users\HP\Desktop\New folder\ConsoleApp1 task algro\obj\Debug\ConsoleApp1 task algro.pdb
+C:\Users\HP\Desktop\New folder\ConsoleApp insertion sort\bin\Debug\ConsoleApp1 task algro.exe.config
+C:\Users\HP\Desktop\New folder\ConsoleApp insertion sort\bin\Debug\ConsoleApp1 task algro.exe
+C:\Users\HP\Desktop\New folder\ConsoleApp insertion sort\bin\Debug\ConsoleApp1 task algro.pdb
+C:\Users\HP\Desktop\New folder\ConsoleApp insertion sort\obj\Debug\ConsoleApp1 task algro.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\New folder\ConsoleApp insertion sort\obj\Debug\ConsoleApp1 task algro.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\New folder\ConsoleApp insertion sort\obj\Debug\ConsoleApp1 task algro.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\ConsoleApp insertion sort\obj\Debug\ConsoleApp1 task algro.exe
+C:\Users\HP\Desktop\New folder\ConsoleApp insertion sort\obj\Debug\ConsoleApp1 task algro.pdb

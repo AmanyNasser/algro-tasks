@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\New folder\algro\obj\Debug\algro.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\New folder\algro\obj\Debug\algro.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\New folder\algro\obj\Debug\algro.form1.resources
+C:\Users\HP\Desktop\New folder\algro\obj\Debug\algro.Properties.Resources.resources
+C:\Users\HP\Desktop\New folder\algro\obj\Debug\algro.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\New folder\algro\obj\Debug\algro.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\algro\bin\Debug\algro.exe.config
+C:\Users\HP\Desktop\New folder\algro\bin\Debug\algro.exe
+C:\Users\HP\Desktop\New folder\algro\bin\Debug\algro.pdb
+C:\Users\HP\Desktop\New folder\algro\obj\Debug\algro.exe
+C:\Users\HP\Desktop\New folder\algro\obj\Debug\algro.pdb

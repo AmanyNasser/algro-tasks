@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\New folder\ConsoleApp merge sort\bin\Debug\ConsoleApp merge sort.exe.config
+C:\Users\HP\Desktop\New folder\ConsoleApp merge sort\bin\Debug\ConsoleApp merge sort.exe
+C:\Users\HP\Desktop\New folder\ConsoleApp merge sort\bin\Debug\ConsoleApp merge sort.pdb
+C:\Users\HP\Desktop\New folder\ConsoleApp merge sort\obj\Debug\ConsoleApp merge sort.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\New folder\ConsoleApp merge sort\obj\Debug\ConsoleApp merge sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\New folder\ConsoleApp merge sort\obj\Debug\ConsoleApp merge sort.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\ConsoleApp merge sort\obj\Debug\ConsoleApp merge sort.exe
+C:\Users\HP\Desktop\New folder\ConsoleApp merge sort\obj\Debug\ConsoleApp merge sort.pdb
